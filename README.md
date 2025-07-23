@@ -1,4 +1,5 @@
 🛒 Product Purchase Prediction using Machine Learning
+
 📌 Project Overview
 This project focuses on predicting the likelihood of a customer purchasing a product based on their online behavior and demographics. Using a binary classification approach, the model aims to assist e-commerce platforms in understanding customer intent and improving targeted marketing strategies.
 
